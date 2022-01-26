@@ -1,1 +1,7 @@
-# FibonacciEarthVisualisation
+# Fibonacci Earth Visualisation
+Script that evenly distributes n number of points on a sphere along with coloring them according to the Earth visualization
+
+Libraries:
+ - numpy
+ - math
+ - matplotlib
