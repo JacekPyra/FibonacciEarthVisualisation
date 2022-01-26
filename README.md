@@ -5,5 +5,7 @@ Libraries:
  - numpy
  - math
  - matplotlib
- - 
+ 
+<p align="center">
 ![Preview image](https://github.com/JacekPyra/FibonacciEarthVisualisation/blob/master/preview.jpg)
+</p>
